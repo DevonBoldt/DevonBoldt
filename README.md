@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevonBoldt
 - 👀 I’m interested in Computer Science, Software Engineering and Music! 
-- 🌱 I’m currently studying CS Major with General Music and WRTC Minors at JMU 2023 
+- 🌱 I’m currently studying CS Major with General Music 
 - 💞️ I’m looking to collaborate on: Nothing ATM. 
 - 📫 How to reach me 
 -   Personal Email: boldtdevon@gmail.com 
